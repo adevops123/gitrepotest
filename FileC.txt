@@ -1,0 +1,4 @@
+This is File C to demonstarte Branches
+"U" not tracking "M" modified yet to be committed
+use git add <filename> to add to staging area
+then git commit -m "adding fileC"
